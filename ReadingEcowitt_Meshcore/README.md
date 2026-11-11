@@ -1,3 +1,3 @@
-# ReadingEcowitt MeshCore Firmware
+# ReadingEcowitt Documentation
 
-Modified MeshCore firmware for receiving Ecowitt weather data through UART and transmitting it over the LoRa mesh network.
+User guides, hardware connection diagrams, installation procedures and technical documentation.
